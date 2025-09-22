@@ -1,5 +1,4 @@
 /*
-
     Luca D'Altri
 
     This program takes in:
@@ -9,7 +8,6 @@
     And computes:
     A(1+R/100)^N : how much is A worth at the end of year N, printing to
     screen the result of years 1-15. Values rounded off to two places.
- 
 */
 
 #include <math.h>
@@ -46,4 +44,5 @@ int main(void) {
 
     return 0;
 }
+
 
