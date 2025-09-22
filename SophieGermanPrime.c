@@ -1,6 +1,5 @@
 /*
-    Luca D'Altri - 20751761
-    Project 60, Question 2
+    Luca D'Altri
     
     This program takes in an integer n. Then it finds and prints the first
     prime p > n that is a Sophie Germain prime (2*p+1 prime too).
@@ -83,3 +82,4 @@ int isPrime(unsigned long long int m) {
     }
     return 1; //Prime
 }
+
