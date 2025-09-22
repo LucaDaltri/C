@@ -1,7 +1,6 @@
 /*
 
-    Luca D'Altri - 20751761
-    Project 60, question 1
+    Luca D'Altri
 
     This program takes in:
     A : initial investment, assuming possible to invest fractions of unit
@@ -47,3 +46,4 @@ int main(void) {
 
     return 0;
 }
+
